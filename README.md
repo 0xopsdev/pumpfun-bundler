@@ -99,5 +99,5 @@ https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428
 
 # 👤 Author
 
-### Telegram: [Zireael](https://t.me/NeloLab)   
-https://t.me/NeloLab
+### Telegram: [Meta0xFlip](https://t.me/Meta0xFlip)   
+https://t.me/Meta0xFlip
