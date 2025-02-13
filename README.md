@@ -18,15 +18,15 @@ Then you need to fund an account with atleast 0.004 SOL that is generated when r
 To launch your token on Pumpfun site, edit the metadata as desired.
 ```typescript
     const metadata = {
-      "name": "Zireael-Swallow",
-      "symbol": "Zireael",
-      "description": "Zireael token",
+      "name": "Meta0xFlip",
+      "symbol": "Meta0xFlip",
+      "description": "Meta0xFlip token",
       "image": "./upload/img.png",
       "showName": true,
       "createdOn": "https://pump.fun",
-      "twitter": "https://x.com/Zireael",
-      "telegram": "https://t.me/Zireael",
-      "website": "https://Zireael"
+      "twitter": "https://x.com/Meta0xFlip",
+      "telegram": "https://t.me/Meta0xFlip",
+      "website": "https://Meta0xFlip.com"
 }
 ```
 `
