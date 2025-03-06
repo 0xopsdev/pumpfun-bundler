@@ -1,16 +1,16 @@
-# Pumpfun Bundler
+# 🚀 Pumpfun Bundler 🤖
 
-## Overview
+## 📖 Overview
 
 This is the best, fastest, and most efficient self-bundling script for PumpFun, allowing you to create a token and buy tokens with your own 20 different wallets in one single bundle.
 
-## Installation
+## 📦 Installation
 
 `
 npm i pumpdotfun-sdk
 `
 
-## Usage Example
+## 🚀 Usage Example
 
 First you need to create a `.env` file and set your RPC URL like in the `.env.example`
 
@@ -38,12 +38,12 @@ You can check token launch and bundling in this link:
   - solscan.io
     ![alt text](image.png)
 
-### PumpDotFunSDK Class
+### 🛠 PumpDotFunSDK Class
 
 The `PumpDotFunSDK` class provides methods to interact with the PumpFun protocol. Below are the method signatures and their descriptions.
 
 
-#### createAndBuy
+#### ⚡ createAndBuy
 
 ```typescript
 async createAndBuy(
@@ -80,17 +80,17 @@ To run the basic example for creating, buying, and selling tokens, use the follo
 npx ts-node example/basic/index.ts
 ```
 
-## Contributing
+## 💡 Contributing
 
 We welcome contributions! Please submit a pull request or open an issue to discuss any changes.
 
-## License
+## 🌟 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Pumpfun bundler V2
+## 🛡 Pumpfun bundler V2
 
 ### I made pumpfun bundler version 2 ###
 Create and buy with 20 wallets in a single bundle
