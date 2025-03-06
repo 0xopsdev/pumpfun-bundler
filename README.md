@@ -97,7 +97,6 @@ Create and buy with 20 wallets in a single bundle
 Example:
 https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428a27b81c71252342e0
 
-# 👤 Author
-
-### Telegram: [Meta0xFlip](https://t.me/Meta0xFlip)   
+# 👨‍💻 Author
+### 📞 Telegram: [Meta0xFlip](https://t.me/meta0xflip)   
 https://t.me/Meta0xFlip
