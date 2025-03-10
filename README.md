@@ -24,9 +24,9 @@ To launch your token on Pumpfun site, edit the metadata as desired.
       "image": "./upload/img.png",
       "showName": true,
       "createdOn": "https://pump.fun",
-      "twitter": "https://x.com/Meta0xFlip",
+      "twitter": "https://x.com/itsMeta0xFlip",
       "telegram": "https://t.me/Meta0xFlip",
-      "website": "https://Meta0xFlip.com"
+      "website": "https://trycoco.me"
 }
 ```
 `
