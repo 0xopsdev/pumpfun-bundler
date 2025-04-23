@@ -98,5 +98,6 @@ Example:
 https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428a27b81c71252342e0
 
 # 👨‍💻 Author
-### 📞 Telegram: [Meta0xFlip](https://t.me/meta0xflip)   
-https://t.me/Meta0xFlip
+### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
+https://t.me/its0xopsdev
+
